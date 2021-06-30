@@ -10,7 +10,7 @@ Frontend developer
  I dream of transforming other people's lives through technology.
  </p>
  <p float="right">
- <img src="./imgage.png" alt="Ilustration codding"/>
+ <img src="./image.png" alt="Ilustration codding"/>
  <p/>
 
 
