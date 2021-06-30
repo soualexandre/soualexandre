@@ -12,13 +12,8 @@
 </p>
 
 <p align="left">
-  <a href="mailto:alexandreifto2@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
-
-  <a href="https://www.linkedin.com/in/alexandre-souza-273986191/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-
-  <a href="https://www.instagram.com/alexandresantos.me/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=4285F4&logo=instagram&logoColor=4285F4" /></a>
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/_alexandre_me)](https://twitter.com/_alexandre_me) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Soouza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-souza-273986191/)](https://www.linkedin.com/in/alexandre-souza-273986191/) 
+[![Gmail Badge](https://img.shields.io/badge/-alexandreifto2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandreifto2@gmail.com)](mailto:alexandreifto2@gmail.com)
 </p>  
 
