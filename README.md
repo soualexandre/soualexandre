@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Heey, meu nome é
-  ## Alexandre Souza
+  Alexandre Souza
   sou <strong>Frontend Developer!</strong>.<br>
 </p>
 
