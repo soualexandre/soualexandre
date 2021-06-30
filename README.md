@@ -19,6 +19,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
   <a href="https://www.instagram.com/alexandresantos.me/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=4285F4&logo=instagram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=4285F4&logo=instagram&logoColor=4285F4" /></a>
 </p>  
 
