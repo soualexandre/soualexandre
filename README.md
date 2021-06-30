@@ -9,7 +9,8 @@ Frontend developer
 #
  I dream of transforming other people's lives through technology.
  </p>
- texto qualquer
+ <p float="right">
+ <img src="./imgage.png" alt="Ilustration codding"/>
  <p/>
 
 
