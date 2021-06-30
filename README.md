@@ -1,14 +1,10 @@
 ## Heeey, tudo bem?  👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Heey, meu nome é Hedênica, sou <strong>Frontend Developer!</strong>.<br>
+  Heey, meu nome é Alexandre Souza, sou <strong>Frontend Developer!</strong>.<br>
   
-- 💼 Atuo Dev Front-end Junior no **SAS PLATAFORMA DE EDUCAÇÃO 💙** ...
-- 🎓 MBA em Business Intelligence & Analytics, na **FIAP**
-- 🦄 Techs: React.js, React Native, Node.js, TypeScrippt, Redux, Saga, Jest, SASS/SCSS, Styled Components ...
-- 🌱 Aprendendo mais sobre **Test Driven Design, Clean Architecture, Design Patterns**.
 </p>
 
 <p align="left">
