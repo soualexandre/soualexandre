@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p float="left">
 # Alexandre Santos
 Frontend developer
 
@@ -7,5 +8,8 @@ Frontend developer
 [![Gmail Badge](https://img.shields.io/badge/-alexandreifto2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandreifto2@gmail.com)](mailto:alexandreifto2@gmail.com)
 #
  I dream of transforming other people's lives through technology.
+ </p>
+ texto qualquer
+ <p/>
 
 
