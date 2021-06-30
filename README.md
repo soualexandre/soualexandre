@@ -10,7 +10,7 @@
 
 
 <p align="left"> 
-  Sou um apixonado por programação que tem a missão de transformar a vidade de outas pessoa pra melhor.
+  Sou um apixonado por programação que tem a missão de transformar a vidade de outas pessoa para melhor.
 </p>
 
 ## Como falar comigo?
