@@ -5,7 +5,7 @@
 <p align="left"> 
   Olá, meu nome é
   Alexandre Souza
-  sou <strong>Frontend Developer!</strong>.<br>
+  sou <strong>Full Stack!</strong>.<br>
 </p>
 
 
