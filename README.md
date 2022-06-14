@@ -5,7 +5,7 @@
 <p align="left"> 
   Olá, meu nome é
   Alexandre Souza
-  sou <strong>Full Stack!</strong>.<br>
+  sou <strong>Full Stack!</strong>.Developer<br>
 </p>
 
 
