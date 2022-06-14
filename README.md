@@ -20,4 +20,4 @@
 
 ## Techs
 
-⚛️ ReactJS, ⚛️ ResctNative
+⚛️ ReactJS, ⚛️ ResctNative, ⚛️ PHP ⚛️ Laravel
