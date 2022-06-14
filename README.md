@@ -3,7 +3,7 @@
 <img src="./image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Heey, meu nome é
+  Olá, meu nome é
   Alexandre Souza
   sou <strong>Frontend Developer!</strong>.<br>
 </p>
