@@ -20,5 +20,5 @@
 
 ## Techs
 
-⚛️ ReactJS, ⚛️ ResctNative, ![icons8-logo-php](https://user-images.githubusercontent.com/55295879/173625856-1167593d-ef95-46c0-92c3-a37843946819.svg) PHP ⚛️ Laravel
+⚛️ ReactJS, ⚛️ ResctNative, :php-logo PHP ⚛️ Laravel
 
