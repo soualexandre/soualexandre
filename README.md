@@ -20,5 +20,5 @@
 
 ## Techs
 
-⚛️ ReactJS, ⚛️ ResctNative, :php-logo PHP ⚛️ Laravel
+⚛️ ReactJS, ⚛️ ResctNative, 💻 PHP 💻 Laravel
 
