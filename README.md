@@ -1,4 +1,4 @@
-## Heeey, tudo bem?  👋
+## Olá, tudo bem?  👋
 
 <img src="./IRmPQm5ho.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -10,7 +10,7 @@
 
 
 <p align="left"> 
-  Sou um apixonado por programação que tem a missão de transformar a vidade de outas pessoa para melhor.
+  Coisas que estão aqui podem mudar o mundo!
 </p>
 
 ## How to talk to me?
