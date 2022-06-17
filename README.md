@@ -1,6 +1,6 @@
 ## Heeey, tudo bem?  👋
 
-<img src="./image.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="./IRmPQm5ho.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá, meu nome é
