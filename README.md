@@ -13,10 +13,13 @@
   Coisas que estão aqui podem mudar o mundo!
 </p>
 
-## Como me achar
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Soouza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-souza-273986191/)](https://www.linkedin.com/in/alexandre-souza-273986191/) 
-[![Gmail Badge](https://img.shields.io/badge/-alexandreifto2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandreifto2@gmail.com)](mailto:alexandreifto2@gmail.com)
+## Contatos:
+<div>
+<a href="https://www.instagram.com/alexandre.ts/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:alexandreifto2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/soualexandre/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ## Techs
 
