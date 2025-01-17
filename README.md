@@ -23,5 +23,5 @@
 
 ## Techs
 
-⚛️ ReactJS, ⚛️ ResctNative, 💻 PHP 💻 Laravel
+⚛️ ReactJS, ⚛️ ResctNative, 💻 Node 💻 Nest
 
