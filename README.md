@@ -22,24 +22,7 @@ Meu objetivo é sempre **entregar código limpo, eficiente e confiável**, com u
 - **Cloud & DevOps:** AWS (Lambda, S3, ECS, EC2), Docker, CI/CD  
 - **Outros:** Arquitetura de microsserviços, Mensageria, Integrações de pagamentos (ex: Mercado Pago)  
 
----
-
-## 📂 Meus Repositórios em Destaque  
-
-🔹 [**Projetos de Alta Performance**](#) – sistemas projetados para lidar com milhares de requisições/segundo.  
-🔹 [**Integrações com APIs de Pagamento**](#) – exemplos práticos de integração com Mercado Pago e outros gateways.  
-🔹 [**Dashboard & Analytics**](#) – aplicações com React + Next.js e bancos relacionais.  
-
 > 💡 Confira meus repositórios e veja na prática como aplico **boas práticas de arquitetura**, **otimização de queries** e **uso avançado de cloud**.  
-
----
-
-## 📊 Estatísticas do GitHub  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUserAqui&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUserAqui&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
