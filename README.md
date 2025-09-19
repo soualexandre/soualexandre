@@ -1,31 +1,61 @@
-### Olá. Sou Alexandre Souza 👋
+# 👋 Olá, eu sou o Alexandre Souza  
 
-Minha expertise como Engenheiro de Software Full Stack está em conceber e executar soluções que transformam desafios complexos em sistemas robustos e eficientes. Com foco em arquitetura escalável e alta performance, meu trabalho é alavancar a tecnologia para impulsionar resultados.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### Tech Stack
-A proficiência em múltiplas plataformas me permite arquitetar e entregar soluções completas, do frontend à infraestrutura de nuvem.
+## 🚀 Sobre mim  
+Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, com foco em **sistemas de alta performance**, **arquiteturas escaláveis** e **processamento de milhares de requisições por segundo**.  
+Atuo na área de **tecnologia financeira (FinTechs e pagamentos)**, construindo soluções robustas e seguras que lidam com **APIs externas, bancos de dados de alto volume e integrações complexas**.  
+
+Meu objetivo é sempre **entregar código limpo, eficiente e confiável**, com um olhar atento à **segurança, escalabilidade e experiência do usuário**.  
+
+---
+
+## 🛠️ Minha Stack  
 
 <p align="center">
-  <img loading="lazy" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img loading="lazy" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img loading="lazy" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img loading="lazy" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img loading="lazy" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img loading="lazy" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img loading="lazy" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-  <img loading="lazy" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,ts,js,postgres,mysql,dynamodb,aws,docker,git,github,linux" />
 </p>
 
-### Conecte-se
+- **Backend:** Node.js, Express, NestJS  
+- **Frontend:** React, Next.js  
+- **Banco de Dados:** PostgreSQL, MySQL, DynamoDB  
+- **Cloud & DevOps:** AWS (Lambda, S3, ECS, EC2), Docker, CI/CD  
+- **Outros:** Arquitetura de microsserviços, Mensageria, Integrações de pagamentos (ex: Mercado Pago)  
 
-Estou sempre aberto para discutir projetos e inovações que demandem alta performance e soluções estratégicas.
+---
 
-<div>
-<a href="https://www.instagram.com/alexandre.ts/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:alexandreifto2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/soualexandre/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## 📂 Meus Repositórios em Destaque  
+
+🔹 [**Projetos de Alta Performance**](#) – sistemas projetados para lidar com milhares de requisições/segundo.  
+🔹 [**Integrações com APIs de Pagamento**](#) – exemplos práticos de integração com Mercado Pago e outros gateways.  
+🔹 [**Dashboard & Analytics**](#) – aplicações com React + Next.js e bancos relacionais.  
+
+> 💡 Confira meus repositórios e veja na prática como aplico **boas práticas de arquitetura**, **otimização de queries** e **uso avançado de cloud**.  
+
+---
+
+## 📊 Estatísticas do GitHub  
 
 <p align="center">
-Pronto para codificar o futuro.
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUserAqui&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUserAqui&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Fun fact  
+
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+> Quando não estou programando, estou **criando conteúdo para ajudar desenvolvedores a crescerem** 🚀,  
+> explorando novas linguagens e **desafiando os limites da tecnologia**.  
+
+---
+
+## 🌐 Vamos nos conectar?  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SeuLinkedinAqui"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:SeuEmailAqui@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SeuUserAqui"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" /></a>
 </p>
