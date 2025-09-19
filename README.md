@@ -1,7 +1,4 @@
 ### Olá. Sou Alexandre Souza 👋
-<p align="center">
-<img src="https://media.giphy.com/media/USVd2dD19c4hE8R4zJ/giphy.gif](https://i.gifer.com/bJk.gif" alt="GIF de Código"  style="max-height: 80px; object-fit: cover;">
-</p>
 
 Minha expertise como Engenheiro de Software Full Stack está em conceber e executar soluções que transformam desafios complexos em sistemas robustos e eficientes. Com foco em arquitetura escalável e alta performance, meu trabalho é alavancar a tecnologia para impulsionar resultados.
 
@@ -18,10 +15,8 @@ A proficiência em múltiplas plataformas me permite arquitetar e entregar solu�
   <img loading="lazy" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
   <img loading="lazy" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
-Conecte-se
-<p align="center">
-<img src="https://media.giphy.com/media/USVd2dD19c4hE8R4zJ/giphy.gif" alt="GIF de Conexão de Redes" width="100%" style="max-height: 80px; object-fit: cover;">
-</p>
+
+### Conecte-se
 
 Estou sempre aberto para discutir projetos e inovações que demandem alta performance e soluções estratégicas.
 
