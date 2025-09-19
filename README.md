@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim  
 Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, com foco em **sistemas de alta performance**, **arquiteturas escaláveis** e **processamento de milhares de requisições por segundo**.  
-Atuo na área de **tecnologia financeira (FinTechs e pagamentos)**, construindo soluções robustas e seguras que lidam com **APIs externas, bancos de dados de alto volume e integrações complexas**.  
+construindo soluções robustas e seguras que lidam com **APIs externas, bancos de dados de alto volume e integrações complexas**.  
 
 Meu objetivo é sempre **entregar código limpo, eficiente e confiável**, com um olhar atento à **segurança, escalabilidade e experiência do usuário**.  
 
@@ -38,7 +38,7 @@ Meu objetivo é sempre **entregar código limpo, eficiente e confiável**, com u
 ## 🌐 Vamos nos conectar?  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soualexandre"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="[[https://www.linkedin.com/in/soualexandre](https://www.linkedin.com/in/eualexandre/)](https://www.linkedin.com/in/eualexandre/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alexandre.souza.office@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/soualexandre"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" /></a>
 </p>
