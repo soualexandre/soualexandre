@@ -38,7 +38,7 @@ Meu objetivo é sempre **entregar código limpo, eficiente e confiável**, com u
 ## 🌐 Vamos nos conectar?  
 
 <p align="center">
-  <a href="[[https://www.linkedin.com/in/soualexandre](https://www.linkedin.com/in/eualexandre/)](https://www.linkedin.com/in/eualexandre/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eualexandre/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alexandre.souza.office@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/soualexandre"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" /></a>
 </p>
