@@ -6,13 +6,7 @@ Olá. Sou Alexandre Souza 👋
 Minha expertise como Engenheiro de Software Full Stack está em conceber e executar soluções que transformam desafios complexos em sistemas robustos e eficientes. Com foco em arquitetura escalável e alta performance, meu trabalho é alavancar a tecnologia para impulsionar resultados.
 
 Tech Stack
-<p align="center">
-<img src="https://media.giphy.com/media/M9gC190J7CjT6/giphy.gif" alt="GIF de desenvolvimento" width="100%" style="max-height: 80px; object-fit: cover;">
-</p>
-
 A proficiência em múltiplas plataformas me permite arquitetar e entregar soluções completas, do frontend à infraestrutura de nuvem.
-
-Markdown
 
 <p align="center">
   <img loading="lazy" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
