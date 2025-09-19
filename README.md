@@ -1,11 +1,11 @@
-Olá. Sou Alexandre Souza 👋
+### Olá. Sou Alexandre Souza 👋
 <p align="center">
 <img src="https://media.giphy.com/media/USVd2dD19c4hE8R4zJ/giphy.gif](https://i.gifer.com/bJk.gif" alt="GIF de Código"  style="max-height: 80px; object-fit: cover;">
 </p>
 
 Minha expertise como Engenheiro de Software Full Stack está em conceber e executar soluções que transformam desafios complexos em sistemas robustos e eficientes. Com foco em arquitetura escalável e alta performance, meu trabalho é alavancar a tecnologia para impulsionar resultados.
 
-Tech Stack
+### Tech Stack
 A proficiência em múltiplas plataformas me permite arquitetar e entregar soluções completas, do frontend à infraestrutura de nuvem.
 
 <p align="center">
