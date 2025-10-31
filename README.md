@@ -6,7 +6,7 @@ Sou Desenvolvedor Fullstack (Node.js | Next.js | React) e sou obcecado por uma c
 
 Ela escreve código em segundos. O problema? Ela não entende de *concorrência*, *uso de memória* ou *complexidade de algoritmo* no mundo real.
 
-Minha missão é ser o "Engenheiro Sênior" que revisa o código da IA.
+Minha missão é mergulhar a fundo em como criar código de alta qualidade com IA.
 
 ---
 
@@ -30,5 +30,5 @@ A IA é uma ferramenta. Como toda ferramenta, ela só é tão boa quanto o artes
 
 ### 📫 Vamos nos conectar
 
-* **LinkedIn:** [Seu Link do LinkedIn]
-* **Dê uma olhada no meu laboratório:** [Link para o seu repositório `ai-performance-lab`]
+* **LinkedIn:** [https://www.linkedin.com/in/eualexandre/]
+* **Dê uma olhada no meu laboratório:** [**ai-code-audit**](https://github.com/soualexandre/ai-code-audit)
