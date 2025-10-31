@@ -1,44 +1,50 @@
-# 👋 Olá, eu sou o Alexandre Souza  
+### 👋 Olá, mundo!
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+Sou Desenvolvedor Fullstack (Node.js | Next.js | React) e sou obcecado por uma coisa: **performance**.
 
-## 🚀 Sobre mim  
-Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, com foco em **sistemas de alta performance**, **arquiteturas escaláveis** e **processamento de milhares de requisições por segundo**.  
-construindo soluções robustas e seguras que lidam com **APIs externas, bancos de dados de alto volume e integrações complexas**.  
+> "A IA é um estagiário genial e incansável. Mas ela ainda é uma estagiária."
 
-Meu objetivo é sempre **entregar código limpo, eficiente e confiável**, com um olhar atento à **segurança, escalabilidade e experiência do usuário**.  
+Ela escreve código em segundos. O problema? Ela não entende de *concorrência*, *uso de memória* ou *complexidade de algoritmo* no mundo real.
 
----
-
-## 🛠️ Minha Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,ts,js,postgres,mysql,dynamodb,aws,docker,git,github,linux" />
-</p>
-
-- **Backend:** Node.js, Express, NestJS  
-- **Frontend:** React, Next.js  
-- **Banco de Dados:** PostgreSQL, MySQL, DynamoDB  
-- **Cloud & DevOps:** AWS (Lambda, S3, ECS, EC2), Docker, CI/CD  
-- **Outros:** Arquitetura de microsserviços, Mensageria, Integrações de pagamentos (ex: Mercado Pago)  
-
-> 💡 Confira meus repositórios e veja na prática como aplico **boas práticas de arquitetura**, **otimização de queries** e **uso avançado de cloud**.  
+Minha missão é ser o "Engenheiro Sênior" que revisa o código da IA.
 
 ---
 
-## ⚡ Fun fact  
+### 🔬 Meu Laboratório de Auditoria de IA
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+Eu não apenas falo sobre isso. Eu provo.
 
-> Quando não estou programando, estou **criando conteúdo para ajudar desenvolvedores a crescerem** 🚀,  
-> explorando novas linguagens e **desafiando os limites da tecnologia**.  
+No meu repositório [**ai-performance-lab**](https://github.com/SEU-USUARIO/ai-performance-lab) (link para seu projeto), eu sigo este processo:
+
+1.  **O PROMPT** 🤖
+    Peço à IA (Gemini/ChatGPT) para criar código para uma tarefa comum (ex: "ler um CSV de 1GB e processar dados").
+
+2.  **O BENCHMARK** 📈
+    Rodo o código gerado em um teste de carga (`k6`) e faço o profiling (`Clinic.js`).
+
+3.  **A AUDITORIA** 🔍
+    Encontro os gargalos "clássicos" que a IA introduz: `fs.readFileSync` bloqueando o Event Loop, loops O(n²), etc.
+
+4.  **A OTIMIZAÇÃO** ⚡
+    Refatoro o código manualmente, aplicando as melhores práticas de engenharia (Streams, Maps, I/O assíncrono).
+
+5.  **O RESULTADO** 📊
+    Publico o comparativo: **Código da IA vs. Código Otimizado**. (Spoiler: a diferença é, em média, de +10.000%).
+
+A IA é uma ferramenta. Como toda ferramenta, ela só é tão boa quanto o artesão que a utiliza. Meu objetivo é dominar essa ferramenta e ensinar outros a fazerem o mesmo.
 
 ---
 
-## 🌐 Vamos nos conectar?  
+### 🚀 Minhas Ferramentas
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eualexandre/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:alexandre.souza.office@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/soualexandre"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" /></a>
-</p>
+| Categoria | Ferramentas |
+| :--- | :--- |
+| **Backend** | Node.js, Next.js, TypeScript, SQLite |
+| **Frontend** | React, HTML5, CSS3 |
+| **Performance** | Clinic.js, k6, Lighthouse, Chrome DevTools |
+| **Minha Dupla** | 🧠 Cérebro Humano + 🤖 Gemini (para assistência) |
+
+### 📫 Vamos nos conectar
+
+* **LinkedIn:** [Seu Link do LinkedIn]
+* **Dê uma olhada no meu laboratório:** [Link para o seu repositório `ai-performance-lab`]
