@@ -14,7 +14,7 @@ Minha missão é ser o "Engenheiro Sênior" que revisa o código da IA.
 
 Eu não apenas falo sobre isso. Eu provo.
 
-No meu repositório [**ai-performance-lab**](https://github.com/SEU-USUARIO/ai-performance-lab) (link para seu projeto), eu sigo este processo:
+No meu repositório [**ai-code-audit]([https://github.com/SEU-USUARIO/ai-performance-lab](https://github.com/soualexandre/ai-code-audit)) (link para seu projeto), eu sigo este processo:
 
 A IA é uma ferramenta. Como toda ferramenta, ela só é tão boa quanto o artesão que a utiliza. Meu objetivo é dominar essa ferramenta e ensinar outros a fazerem o mesmo.
 
