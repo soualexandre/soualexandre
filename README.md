@@ -13,7 +13,7 @@ Minha missão é mergulhar a fundo em como criar código de alta qualidade com I
 ### 🔬 Meu Laboratório de Auditoria de IA
 
 Eu não apenas falo sobre isso. Eu provo.
-No meu repositório [**ai-code-audit**](https://github.com/soualexandre/ai-code-audit) (link para seu projeto), eu sigo este processo:
+No meu repositório [**ai-code-audit**](https://github.com/soualexandre/ai-code-audit).
 
 A IA é uma ferramenta. Como toda ferramenta, ela só é tão boa quanto o artesão que a utiliza. Meu objetivo é dominar essa ferramenta e ensinar outros a fazerem o mesmo.
 
